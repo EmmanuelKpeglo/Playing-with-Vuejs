@@ -1,0 +1,30 @@
+.plan-wrapper{
+
+	width: 50%;
+	margin: 0 25%;
+	padding: 5% 0;
+	text-align: center;
+}
+
+.plan{
+	border: 1px solid red;
+	padding: 2% 0;
+	margin: 1% 0;
+}
+
+.active-plan{
+	border: 1px solid blue;
+}
+
+.cancel{
+	color: green;
+	text-decoration: line-through;
+}
+
+#animate {
+	width: 50%;
+	margin: 0 25%;
+	padding: 5% 0;
+	text-align: center;
+	border: 1px solid blue;
+}
